@@ -1,4 +1,6 @@
 out/
 bin/
+build/
+dist/
 *.class
 .idea/
